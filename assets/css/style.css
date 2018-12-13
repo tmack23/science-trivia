@@ -1,0 +1,51 @@
+body{
+background-image: url("science2.jpg");
+}
+
+#container{
+	width: 1000px;
+	height:600px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FEFB5C; 
+}
+
+h1{
+	font-size: 100px;
+	color: #2A93AF;
+	margin-top: 70px;
+}
+
+h3{
+	font-size: 35px;
+	font-weight: bold;
+	margin-top: 35px;
+}
+
+
+#startButton{
+	font-size: 30px;
+	margin-right: 38%;
+	margin-left: 38%;
+	margin-top: 100px;
+
+}
+
+#a1, #a2, #a3, #a4{
+	font-size: 25px;
+
+}
+
+#a1, #a2, #a3, #a4:hover {
+	cursor: pointer;
+	/*font-size: 23px;*/
+}
+
+#endResults {
+	font-size: 30px;
+}
+
+b {
+	height: 40px
+	width: 45px;
+}
